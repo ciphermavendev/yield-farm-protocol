@@ -1,4 +1,4 @@
-# yield-farm-protocol# Yield Farm Protocol
+# Yield Farm Protocol
 
 A decentralized yield farming protocol built on Ethereum that allows users to stake tokens and earn rewards.
 
